@@ -1,0 +1,2 @@
+to install the extractor package use requirement.txt file and download all the packages
+and run the command pip install -r requirement.txt in the terminal
