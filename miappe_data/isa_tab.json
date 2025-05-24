@@ -1,0 +1,112 @@
+{
+  "Investigation": [
+    "Investigation unique ID",
+    "Investigation title",
+    "Investigation description",
+    "Submission date",
+    "Public release date",
+    "License",
+    "MIAPPE version",
+    "Associated publication"
+  ],
+ "Person": [
+    "Person name",
+    "Person email",
+    "Person ID",
+    "Person role",
+    "Person affiliation"
+  ],
+  "Study": [
+    "Study unique ID",
+    "Study title",
+    "Study description",
+    "Start date of study",
+    "End date of study",
+    "Contact institution",
+    "Geographic location (country)",
+    "Experimental site name",
+    "Geographic location (latitude)",
+    "Geographic location (longitude)",
+    "Geographic location (altitude)",
+    "Description of growth facility",
+    "Type of growth facility",
+    "Description of the experimental design",
+    "Type of experimental design",
+    "Observation unit level hierarchy",
+    "Observation unit description",
+    "Map of experimental design",
+    "Experimental Factor description",
+    "Experimental Factor type",
+    "Experimental Factor value",
+    "Cultural Practices"
+  ],
+
+  "Data": [
+    "Data file link",
+    "Data file description",
+    "Data file version"
+  ],
+  "Biological Material": [
+    "Biological material ID",
+    "Organism",
+    "Genus",
+    "Species",
+    "Infraspecific name",
+    "Biological material latitude",
+    "Biological material longitude",
+    "Biological material altitude",
+    "Biological material coordinates uncertainty",
+    "Biological material preprocessing",
+    "Material source ID (Holding institute/stock centre, accession)",
+    "Material source DOI",
+    "Material source latitude",
+    "Material source longitude",
+    "Material source altitude",
+    "Material source coordinates uncertainty",
+    "Material source description"
+  ],
+  "Assay": [
+    "Measurement Type",
+    "Technology Type",
+    "Technology Platform",
+    "Materials",
+    "Characteristic Categories",
+    "Unit Categories"
+  ],
+  "Factor": [
+    "Properties",
+    "Factor Name",
+    "Factor Type"
+  ],
+    "Protocol": [
+    "Name",
+    "Protocol Type",
+    "Description",
+    "uri",
+    "version",
+    "Parameters",
+    "Components"
+  ],
+  "Sample": [
+    "Sample",
+    "Sample ID",
+    "Plant structure development stage",
+    "Plant anatomical entity",
+    "Sample description",
+    "Collection date",
+    "External ID"
+  ],
+  "Process": [
+    "Parameter Values",
+    "Performer",
+    "Date",
+    "Previous Process",
+    "Next Process",
+    "Inputs",
+    "Outputs",
+    "comments"
+  ]
+}
+
+
+

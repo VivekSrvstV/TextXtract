@@ -1,0 +1,104 @@
+{
+  "Investigation": [
+    "Investigation unique ID",
+    "Investigation title",
+    "Investigation description",
+    "Submission date",
+    "Public release date",
+    "License",
+    "MIAPPE version",
+    "Associated publication"
+  ],
+  "Study": [
+    "Study unique ID",
+    "Study title",
+    "Study description",
+    "Start date of study",
+    "End date of study",
+    "Contact institution",
+    "Geographic location (country)",
+    "Experimental site name",
+    "Geographic location (latitude)",
+    "Geographic location (longitude)",
+    "Geographic location (altitude)",
+    "Description of the experimental design",
+    "Type of experimental design",
+    "Observation unit level hierarchy",
+    "Observation unit description",
+    "Description of growth facility",
+    "Type of growth facility",
+    "Cultural practices",
+    "Map of experimental design"
+  ],
+  "Person": [
+    "Person name",
+    "Person email",
+    "Person ID",
+    "Person role",
+    "Person affiliation"
+  ],
+  "Data": [
+    "Data file link",
+    "Data file description",
+    "Data file version"
+  ],
+  "Biological": [
+    "Biological material ID",
+    "Organism",
+    "Genus",
+    "Species",
+    "Infraspecific name",
+    "Biological material latitude",
+    "Biological material longitude",
+    "Biological material altitude",
+    "Biological material coordinates uncertainty",
+    "Biological material preprocessing",
+    "Material source ID",
+    "Material source DOI",
+    "Material source latitude",
+    "Material source longitude",
+    "Material source altitude",
+    "Material source coordinates uncertainty",
+    "Material source description"
+  ],
+  "Environment": [
+    "Environmental conditions",
+    "Environmental condition ontology ID",
+    "Environmental condition unit",
+    "Environmental condition value",
+    "Environmental condition description",
+    "Environmental condition factor"
+  ],
+  "Event": [
+    "Event",
+    "Event type",
+    "Event accession number",
+    "Event description",
+    "Event date"
+  ],
+  "Observation Unit": [
+    "Observation unit",
+    "Observation unit ID",
+    "Observation unit type",
+    "External ID",
+    "Spatial distribution",
+    "Observation unit factor value"
+  ],
+  "Sample": [
+    "Sample",
+    "Sample ID",
+    "Plant structure development stage",
+    "Plant anatomical entity",
+    "Sample description",
+    "Collection date",
+    "External ID"
+  ],
+  "Observed Variable": [
+
+    "Method description",
+    "Reference associated to the method",
+    "Scale",
+    "Scale accession number",
+    "Time scale"
+  ]
+}
