@@ -1,0 +1,26 @@
+[
+    {
+        "PMID_as": "27529152.pdf",
+        "mt": {
+            "Growth Parameters": [
+                "Height",
+                "Biomass",
+                "Height",
+                "Height",
+                "Height"
+            ],
+            "Physiological Parameters": [],
+            "Morphological Parameters": [],
+            "Biochemical Parameters": [],
+            "Nutrient Parameters": [],
+            "Environmental Parameters": [
+                "Humidity",
+                "Temperature"
+            ],
+            "Response to Stress Parameters": [],
+            "Gene Expression Parameters": []
+        },
+        "ttype": [],
+        "aProp": ""
+    }
+]
