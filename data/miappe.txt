@@ -1,0 +1,30 @@
+MIAPPE GUIDELINES:
+
+1. Experimental design
+   - Plant material
+   - Growing conditions
+   - Experimental design
+
+2. Phenotyping methods
+   - Imaging methods
+   - Data extraction and analysis
+   - Trait ontology
+
+3. Environmental conditions
+   - Climate data
+   - Soil data
+   - Nutrient data
+
+4. Metadata
+   - Experiment metadata
+   - Plant metadata
+   - Imaging metadata
+
+5. Data availability
+   - Data sharing
+   - Data archiving
+
+6. Standards compliance
+   - MIAPPE compliance
+   - Ontology compliance
+   - Standards compliance

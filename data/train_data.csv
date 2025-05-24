@@ -1,0 +1,111 @@
+Investigation unique ID,EBI:12345678
+Investigation title,"Adaptation of Maize to Temperate Climates: Mid-Density Genome-Wide Association Genetics and Diversity Patterns Reveal Key Genomic Regions, with a Major Contribution of the Vgt2 (ZCN8) Locus."
+Investigation description,"The migration of maize from tropical to temperate climates was accompanied by a dramatic evolution in flowering time. To gain insight into the genetic architecture of this adaptive trait, we conducted a 50K SNP-based genome-wide association and diversity investigation on a panel of tropical and temperate American and European representatives."
+Submission date,2012-12-17
+Public release date,2013-02-25
+License,"CC BY-SA 4.0, Unreported"
+MIAPPE version,1.1
+Associated publication,doi:10.1371/journal.pone.0071377
+Study unique ID,"EBI:12345678
+http://phenome-fppn.fr/maugio/2013/t2351"
+Study title,2002 evaluation of flowering time for a panel of 375 maize lines at the experimental station of Maugio (France). 
+Study description,"2002 evaluation of male and female flowering time for a panel of 375 maize lines representing the worldwide genetic diversity at the experimental station of Maugio, France. "
+Start date of study,"2002-04-04
+2006-09-27T10:23:21+00:00"
+End date of study,2002-11-27
+Contact institution,"UMR de Génétique Végétale, INRA – Université Paris-Sud – CNRS, Gif-sur-Yvette, France"
+Geographic location (country),FR
+Experimental site name,"INRA, UE Diascope - Chemin de Mezouls - Domaine expérimental de Melgueil - 34130 Mauguio - France"
+Geographic location (latitude),+43.619264
+Geographic location (longitude),+3.967454
+Geographic location (altitude),100 m
+Description of the experimental design,"Lines were repeated twice at each location using a complete block design. In order to limit competition effects, each block was organized into four sub-blocks corresponding to earliness groups based on a priori information. "
+Type of experimental design,CO_715:0000145
+Observation unit level hierarchy,block>rep>plot
+Observation unit description,"Observation units consisted in individual plots themselves consisting of a row of 15 plants at a density of approximately six plants per square meter.
+NA"
+Description of growth facility,"field environment condition
+NA"
+Type of growth facility,CO_715:0000162
+Cultural practices,Irrigation was applied according needs during summer to prevent water stress.
+Map of experimental design,https://urgi.versailles.inra.fr/files/ephesis/181000503/181000503_plan.xls
+Person name,Ines Chaves
+Person email,ichaves@itqb.unl.pt
+Person ID,orcid.org/0000-0001-6494-0008; orcid.org/0000-0002-7054-800X
+Person role,data submitter; author; corresponding author
+Person affiliation,"ITQB, Portugal;
+grid.10772.33"
+Data file link,http://www.ebi.ac.uk/arrayexpress/experiments/E-GEOD-32551/
+Data file description,"FASTA
+tab-delimited
+column headers headers: 1. A 2. B 3. C"
+Data file version,1.0
+Biological material ID,INRA:W95115_inra_2001; INRA:inra_kernel_2351; Rothamsted:rres_GK090847
+Organism,NCBITAXON:4577 
+Genus,"Zea
+Solanum"
+Species,"mays
+lycosperium x pennellii"
+Infraspecific name,"vinifera Pinot noir
+B73
+subspecies:vinifera ; cultivar:Pinot noir
+var:B73
+subsp. vinifera var. Pinot Noir
+var. B73"
+Biological material latitude,+39.067
+Biological material longitude,-8.73
+Biological material altitude,10 m
+Biological material coordinates uncertainty,200 m
+Biological material preprocessing,EO:0007210 - PVY(NTN); transplanted from study http://phenome-fppn.fr/maugio/2013/t2351 observation unit ID: pot:894
+"Material source ID (Holding institute/stock centre, accession)","INRA:W95115_inra
+ICNF:PNB-RPI"
+Material source DOI,doi:10.15454/1.4658436467893904E12
+Material source latitude,+39.067
+Material source longitude,-8.73
+Material source altitude,10 m
+Material source coordinates uncertainty,200 m
+Material source description,Branches were collected from a 10-year-old tree growing in a progeny trial established in a loamy brown earth soil.
+Environment parameter,"sowing density
+rooting medium composition; pH"
+Environment parameter value,"300 seeds per m2
+Clay 50% plus sand; 6.5"
+Experimental Factor type,Watering
+Experimental Factor description,Daily watering 1 L per plant. 
+Experimental Factor values,Watered; Unwatered
+Event type,"Planting
+Fertilizing"
+Event accession number,"CO_715:0000007
+CO_715:0000011"
+Event description,"Sowing using seed drill 
+Fertilizer application: Ammonium nitrate at 3 kg/m2"
+Event date,"2006-09-27T10:23:21+00:00
+2006-10-27; 2006-11-13; 2016-11-21"
+Observation unit ID,plot:894
+Observation unit type,plot
+External ID,Biosamples:SAMEA4202911
+Spatial distribution,latitude:+2.341; row:4 ; X:3; Y:6; Xm:35; Ym:65; block:1; plot:894
+Observation Unit factor value,Watered
+Sample ID,CEA:BE00034067
+Plant structure development stage,"PO:0025094
+BBCH-17"
+Plant anatomical entity,"PO:0000003
+PO:0025161"
+Sample description,"Distal part of the leaf ; 100 mg of roots taken from 10 roots at 20°C, conserved in vacuum at 20 mM NaCl salinity, stored at -60 °C to -85 °C."
+Collection date,2005-08-15T15:52:01+00:00
+External ID,Biosamples:SAMEA4202911
+Variable ID,Ant_Cmp_Cday
+Variable name,Anthesis computed in growing degree days
+Variable accession number,CO_322:0000794
+Trait,"Anthesis time
+Reproductive growth time"
+Trait accession number,"CO_322:0000030
+TO:0000366"
+Method,Growing degree days to anthesis
+Method accession number,CO_322:0000189
+Method description,"Days to anthesis for male flowering was measured in thermal time (GDD: growing degree-days) according to Ritchie J, NeSmith D (1991;Temperature and crop development. Modeling plant and soil systems American Society of Agronomy Madison, Wisconsin USA) with TBASE=8°C and T0=30°C.
+Plant height was measured at 5 years with a ruler, one year after Botritis inoculation."
+Reference associated to the method,http://doi.org/10.2134/agronmonogr31.c2
+Scale,°C day
+Scale accession number,CO_322:0000510
+Time scale,"Growing degree day (GDD)
+Date/Time"
