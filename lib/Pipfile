@@ -1,0 +1,32 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "==1.22.3"
+flask = "*"
+scispacy = "*"
+flask-sqlalchemy = "*"
+"pdfminer.six" = "*"
+transformers = "*"
+reportlab = "*"
+bs4 = "*"
+lxml = "*"
+parsel = "*"
+playwright = "*"
+classifier = "*"
+beautifulsoup4 = "*"
+sentry-sdk = "*"
+openpyxl = "*"
+textblob = "*"
+scikit-learn = "==0.24.2"
+install = "*"
+pypdf2 = "*"
+flask-paginate = "*"
+pandas = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8.10"
